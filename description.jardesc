@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/FRC/Global/Plugin Versions/v2.0.0.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/team498.dynamic/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal>
+                <package handleIdentifier="=team498.dynamic/src&lt;team498.dynamic"/>
+            </packagesToSeal>
+            <packagesToUnSeal>
+                <package handleIdentifier="=team498.dynamic/src&lt;team498.dynamic"/>
+            </packagesToUnSeal>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=team498.dynamic/src"/>
+    </selectedElements>
+</jardesc>
